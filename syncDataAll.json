@@ -1,0 +1,79 @@
+{
+  "brandCode": "1",
+  "storeCode": "ABX001",
+  "deviceNo": "00670F00178BFBFFWDWXP1A475K5RT12F120524153",
+  "applicationCode": "1",
+  "locationCode": "L0",
+  "userCode": "INTTEST",
+  "operationTime": "2018-10-10 11:11:11",
+  "versionList": [
+    {
+      "dataCode": "CONFIG_BRAND_CONFIG_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_OPERATOR_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_BUSINESS_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_CREDITACCOUNT_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_BUSINESSMONITORRULE_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_HARDWAREMONITORRULE_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_OPERATIONMONITORRULE_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_PRINTTEMPLATE_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_BILLFOLLOW_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_CUSTOMMENU_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "OPERATION_PRODUCTSTATE_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "OPERATION_SOLDOUT_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "OPERATION_STOREBUSINESSSTATE_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "OPERATION_BOARD_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_TAKENOSECTION_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "CONFIG_DEVICEBUSINESS_SYNC",
+      "version": "0"
+    },
+    {
+      "dataCode": "OPERATION_CASHERSTATE_SYNC",
+      "version": "0"
+    }
+  ]
+}

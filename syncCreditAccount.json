@@ -1,0 +1,15 @@
+{
+  "brandCode": "1",
+  "storeCode": "ABX001",
+  "deviceNo": "00670F00178BFBFFWDWXP1A475K5RT12F120524153",
+  "applicationCode": "1",
+  "locationCode": "L0",
+  "userCode": "INTTEST",
+  "operationTime": "2018-10-10 11:11:11",
+  "versionList": [
+     {
+      "dataCode": "CONFIG_CREDITACCOUNT_SYNC",
+      "version": "0"
+    }
+  ]
+}

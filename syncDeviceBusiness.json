@@ -1,0 +1,15 @@
+{
+  "brandCode": "1",
+  "storeCode": "ABX001",
+  "deviceNo": "BFEBFBFF000306D4S23BNYAG365550E23C20524153",
+  "applicationCode": "1",
+  "locationCode": "L0",
+  "userCode": "INTTEST",
+  "operationTime": "2018-10-10 11:11:11",
+  "versionList": [
+    {
+      "dataCode": "CONFIG_DEVICEBUSINESS_SYNC",
+      "version": "0"
+    }
+  ]
+}
