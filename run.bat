@@ -1,0 +1,1 @@
+jmeter -p user.properties -n -t cpos-test.jmx -l cpos-result.csv  -e -o output -JthreadNum=10 -JloopCount=3
