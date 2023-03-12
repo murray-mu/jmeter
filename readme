@@ -1,0 +1,16 @@
+1:解压apache-jmeter-5.0.zip
+2:配置环境变量 /etc/profile
+linux:
+	export PATH=$PATH:/home/murray/Desktop/jmeter/apache-jmeter-5.0/bin
+windows:
+    配置环境变量
+3:解压jmeter-cpos-test.zip
+4:进入 jmeter
+5:删除cpos-result.csv 和 output目录
+6:修改启动文件
+ windows: 改成 run.bat
+ linux:改成 run.sh
+7:启动
+  ./run.sh
+	
+
