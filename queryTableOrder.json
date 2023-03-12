@@ -1,0 +1,13 @@
+{
+  "userCode": "INTTEST",
+  "operationTime": "2018-10-10 11:11:11",
+  "dataCode": "CONFIG_TABLEORDER_QUERY",
+  "brandCode": "1",
+  "storeCode": "ABX001",
+  "locationCode": "L1",
+  "deviceNo": "BFEBFBFF000506E3WDWXJ1AC56VKKS00258FDE0800",
+  "applicationCode": "1",
+  "queryParams": {
+    "businessDay": "2018-12-07"
+  }
+}
